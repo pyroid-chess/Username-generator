@@ -37,12 +37,15 @@ This project is a simple username generator written in Python. It offers both a 
 
 - **Non-GUI Mode:**
   ```bash
-  python username_generator.py
+  python username_gen_terminal.py
   ```
 
 - **GUI Mode:**
   ```bash
-  python username_generator_gui.py
+  python username_gen_mobile.py
+  ```
+  ```bash
+  python username_gen_dekstop.py
   ```
 
 ## Notes
